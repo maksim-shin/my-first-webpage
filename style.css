@@ -21,7 +21,7 @@ header{
 }
 
 .b-ground{
-    background-image: url(bg.jpeg);
+    background-image: url(bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -89,6 +89,7 @@ input:focus {
     letter-spacing: 2px;
     line-height: 1.1;
     color: #ededed;
+    text-align: center;
 }
 .content h1 {
     font-family: 'Times New Roman', Times, serif;
@@ -114,7 +115,6 @@ button a{
  }
 .join-us{
     margin-top: 20px;
-    margin-left: 80px;
     padding: 10px 30px;
     background-color: #ff8c00;
     color: black;
@@ -140,8 +140,8 @@ button a{
     height: auto;
     background:rgba(0, 0, 0, 0.8);
     position: absolute;
-    left: 1200px;
-    top: 300px;
+    left: 1100px;
+    top: 250px;
     border-radius: 10px;
     padding: 25px;
    
